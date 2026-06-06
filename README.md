@@ -1,6 +1,6 @@
 # Hi, I'm Zac-lzh :wave:
 
-Bioinformatics researcher | [OmicVerse](https://github.com/omicverse) core contributor
+生信研究者 | 单细胞 | 空间组学 | [OmicVerse](https://github.com/omicverse) core contributor
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1307--8755-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1307-8755)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9fphuYsAAAAJ&hl=zh-CN)
@@ -9,12 +9,12 @@ Bioinformatics researcher | [OmicVerse](https://github.com/omicverse) core contr
 
 ## :microscope: Research Interests
 
-- Single-cell transcriptomics (scRNA-seq)
-- Spatial transcriptomics & spatial omics
-- Cell-cell communication networks
-- Gene co-expression network analysis (WGCNA)
-- Tumor microenvironment & immune infiltration
-- R/Bioconductor to Python porting with numerical parity
+- 生信 (Bioinformatics)
+- 单细胞转录组 (scRNA-seq)
+- 空间转录组 & 空间组学 (Spatial Transcriptomics & Spatial Omics)
+- 细胞通讯网络 (Cell-cell Communication)
+- 基因共表达网络分析 (WGCNA)
+- 肿瘤微环境 & 免疫浸润 (TME & Immune Infiltration)
 
 ---
 
