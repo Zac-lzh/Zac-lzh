@@ -1,6 +1,6 @@
 # Hi, I'm Zac-lzh :wave:
 
-Bioinformatics researcher focused on **single-cell RNA-seq**, **cell-cell communication**, and **ovarian cancer**. Core contributor to the [OmicVerse](https://github.com/omicverse) ecosystem, specializing in porting R/Bioconductor packages to pure-Python with high numerical parity and significant speedups.
+Bioinformatics researcher | [OmicVerse](https://github.com/omicverse) core contributor
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1307--8755-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1307-8755)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9fphuYsAAAAJ&hl=zh-CN)
@@ -9,11 +9,12 @@ Bioinformatics researcher focused on **single-cell RNA-seq**, **cell-cell commun
 
 ## :microscope: Research Interests
 
-- Single-cell & spatial transcriptomics
-- Cell-cell communication network analysis
+- Single-cell transcriptomics (scRNA-seq)
+- Spatial transcriptomics & spatial omics
+- Cell-cell communication networks
 - Gene co-expression network analysis (WGCNA)
-- Cancer bioinformatics (ovarian cancer)
-- R-to-Python package porting & optimization
+- Tumor microenvironment & immune infiltration
+- R/Bioconductor to Python porting with numerical parity
 
 ---
 
