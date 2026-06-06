@@ -50,24 +50,26 @@ Bioinformatics researcher | [OmicVerse](https://github.com/omicverse) core contr
 <sub>Python</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/omicverse/rust-NMF"><b>rust-NMF</b></a><br/>
-<sub>Non-negative Matrix Factorization</sub><br/>
-<sub>Rust | ~76x R Lee | ~218x with HALS+NNDSVD</sub>
+<a href="https://github.com/omicverse/py-SigXTalk"><b>py-SigXTalk</b></a><br/>
+<sub>Pathway Crosstalk from Cell Communication</sub><br/>
+<sub>Python | Deep Learning</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/omicverse/omicverse-rebuildr"><b>RebuildR</b></a><br/>
-<sub>R-to-Python Porting Protocol</sub><br/>
-<sub>Reference-driven porting with parity gates</sub>
+<a href="https://github.com/omicverse/py-SpaceTrooper"><b>py-SpaceTrooper</b></a><br/>
+<sub>QC for Image-based Spatial Transcriptomics</sub><br/>
+<sub>Python</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/Zac-lzh/Cytfly"><b>Cytfly</b></a><br/>
-<sub>Cell Communication Comparison</sub><br/>
-<sub>R | CellChat-based</sub>
+<a href="https://github.com/omicverse/py-spanorm"><b>py-spanorm</b></a><br/>
+<sub>Spatially-aware Normalisation</sub><br/>
+<sub>Python | Spatial Transcriptomics</sub>
 </td>
 <td align="center" width="33%">
-
+<a href="https://github.com/omicverse/py-spotsweeper"><b>py-spotsweeper</b></a><br/>
+<sub>Spatially-aware QC Outlier Detection</sub><br/>
+<sub>Python | Spatial Transcriptomics</sub>
 </td>
 </tr>
 </table>
